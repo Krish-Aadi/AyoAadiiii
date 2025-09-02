@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in Game Developmet and AI
-- 🌱 I’m currently learning C
-- ⚡ Fun fact: I love Video Games
+- 👀 I’m interested in Cybersecurity and like to explore things.
+  
 
 <!---
 AyoAadiiii/AyoAadiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
