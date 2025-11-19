@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in Cybersecurity and like to explore things.
   
 
 <!---
